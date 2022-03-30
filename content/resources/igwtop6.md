@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 resourcetype: Image
 title: igwtop6.jpg
 uid: 5daf1e79-95e4-b587-7e4b-f78e32ff0cea

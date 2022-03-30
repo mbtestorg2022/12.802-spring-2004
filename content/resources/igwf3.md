@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 resourcetype: Image
 title: igwf3.jpg
 uid: 50e05ece-9eb7-3af7-15c9-4bd59590c17b

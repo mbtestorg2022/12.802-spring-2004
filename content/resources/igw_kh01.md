@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 resourcetype: Image
 title: igw_kh01.jpg
 uid: db2e6d4e-b081-ec8e-7df9-494c47e3cb45

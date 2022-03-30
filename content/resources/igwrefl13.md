@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 resourcetype: Image
 title: igwrefl13.jpg
 uid: 43f805cf-258b-d521-1625-8566e68c13d8
